@@ -5,8 +5,7 @@ We've created a platform that bridges researchers and engineers with open-source
 
 ## Landing Page
 https://engineers-for-science.github.io/kakehashi-landing/
-
-
+<img width="1611" alt="image" src="https://github.com/Engineers-for-Science/.github/assets/76513865/981ade03-9944-46d3-bd1d-9b32e4133a46">
 
 ## How it works
 <img width="855" alt="image" src="https://github.com/Engineers-for-Science/.github/assets/76513865/7c886201-3e2d-4cff-bd1b-9cedf1da9752">
