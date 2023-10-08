@@ -1,16 +1,23 @@
-# Matcing open science project with skilled contributors!
+# Matcing open science projects with skilled contributors!
 
 ## Overview
 We've created a platform that bridges researchers and engineers with open-source science projects using the power of vector search and ai technology. With over 500 real open-science projects already seeded in the platform, our platform is ready to solve the issue of effeciently matching skilled contributers with open source science.
+
+## Landing Page
+https://engineers-for-science.github.io/kakehashi-landing/
+
+
 
 ## How it works
 <img width="855" alt="image" src="https://github.com/Engineers-for-Science/.github/assets/76513865/7c886201-3e2d-4cff-bd1b-9cedf1da9752">
 
 ## Presentation
-[![3 minutes Presentation](https://img.youtube.com/vi/qUXWmxhl3Ts/0.jpg)](https://www.youtube.com/watch?v=qUXWmxhl3Ts)
+Slides: https://docs.google.com/presentation/d/e/2PACX-1vR71T1T2G0bPobS2dEm9TPAReMAUBu2lJ30h7hYThf8an5yvLa0TOJM2VA1weximC34eX2YgodjM1gj/pub?start=false&loop=false&delayms=3000&slide=id.g289cb6fd6a6_0_18
+
+[![3 minutes Presentation Video](https://img.youtube.com/vi/qUXWmxhl3Ts/0.jpg)](https://www.youtube.com/watch?v=qUXWmxhl3Ts)
 
 ## Demo
-[![](https://img.youtube.com/vi/XjXdjlamf6Y/0.jpg)](https://www.youtube.com/watch?v=XjXdjlamf6Y)
+[![30 seoncds Demo Video](https://img.youtube.com/vi/XjXdjlamf6Y/0.jpg)](https://www.youtube.com/watch?v=XjXdjlamf6Y)
 
 ## Project Details
 Our platform uses ai technology to bridge skilled contributors to open source science projects.
@@ -42,3 +49,6 @@ On our platform, users don't need to manually update their profiles because we'v
 ### OTHER RESOURCES
 - [CitizenScience.gov](https://www.citizenscience.gov/#)
   This database provides a government-wide listing of citizen science and crowdsourcing projects by agency.
+
+<img width="1338" alt="image" src="https://github.com/Engineers-for-Science/.github/assets/76513865/c2a17932-9859-4c65-b847-46c74b66132f">
+
