@@ -5,7 +5,7 @@ We've created a platform that bridges researchers and engineers with open-source
 
 ## Landing Page
 https://engineers-for-science.github.io/kakehashi-landing/
-<img width="1611" alt="image" src="https://github.com/Engineers-for-Science/.github/assets/76513865/981ade03-9944-46d3-bd1d-9b32e4133a46">
+<img width="1442" alt="image" src="https://github.com/Engineers-for-Science/.github/assets/76513865/2fdeab1b-e322-413d-8db6-06bc82562802">
 
 ## How it works
 <img width="855" alt="image" src="https://github.com/Engineers-for-Science/.github/assets/76513865/7c886201-3e2d-4cff-bd1b-9cedf1da9752">
@@ -34,6 +34,9 @@ In this project we utilize NLP, LLMs, and Vector Search technology.
 
 
 On our platform, users don't need to manually update their profiles because we've integrated OpenID Connect to automatically sync their information. Moreover, by simply providing a project's webpage, we can extract data and specify the skills required for that project.
+
+## Style Guide
+![style_guide](https://github.com/Engineers-for-Science/.github/assets/76513865/d0511511-63f1-482b-8fe4-2e497b95b59d)
 
 ## DATA
 ### NASA RESOURCES
